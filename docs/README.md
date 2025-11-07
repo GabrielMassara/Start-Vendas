@@ -1,5 +1,13 @@
 # Introdução
 
+## 🏆 Reconhecimento
+
+**Este projeto foi selecionado para o TOP 3 MELHORES PROJETOS da disciplina TI1 da PUC Minas!**
+
+📹 **Vídeo de apresentação do projeto:** [Assista aqui](https://youtu.be/-5spb1XWyLw?si=0vA4sMq9yYEHF6Bu)
+
+---
+
 Informações básicas do projeto.
 
 * **Projeto:** [StartVendas](https://bb9fb5e0-b56f-4bc3-8752-7453f1f1ff2a-00-3bk3rcdhbanjz.spock.replit.dev/)
