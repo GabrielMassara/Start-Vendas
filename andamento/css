@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  width: 500px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  position: relative;
+}
+
+.titulo {
+  text-align: center;
+  color: #8e44ad;
+  margin-bottom: 15px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.status {
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+}
+
+.status.em_andamento {
+  background-color: orange;
+}
+
+.status.pendente {
+  background-color: red;
+}
+
+.status.concluido {
+  background-color: green;
+}
+
+.status.cancelado {
+  background-color: gray;
+}
